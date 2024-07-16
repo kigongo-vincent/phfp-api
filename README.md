@@ -56,8 +56,6 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
 Set up the backend:
 
 sh
@@ -100,7 +98,7 @@ Start the web application.
 sh
 Copy code
 npm start
-Open your browser and navigate to http://localhost:3000.
+Open your browser and navigate to http://localhost:5173.
 
 Folder Structure
 java
